@@ -1,5 +1,6 @@
 # Smart-_Lender
 Smart Lender is a machine learning-powered web application designed to predict the creditworthiness of loan applicants, enabling banks and financial institutions to make faster, data-driven loan approval decisions. The platform leverages classification algorithms 
+
 🔑 Core Features
 Risk Assessment: Analyze borrower profiles, credit scores, repayment history, and market conditions to suggest safe lending options.
 
